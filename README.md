@@ -18,9 +18,10 @@ Essas informações fornecerão uma cópia do projeto instalados e funcionando e
 ## Pré requisitos:
 É necessário ter instalado no computador:
 * Java versão 17 ou superior
-<img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="Linguagem de programação JAVA" height="50" width="100">
+<img src="https://github.com/ericsilvarodrigues/Radical-Games/blob/main/Img/java.png" alt="Linguagem de programação JAVA" height="40" width="40">
+
 * XAMPP
-<img src="https://blog.shaharia.com/wp-content/uploads/blog-xampp-1024x576.jpg" alt="" height="50" width="100">
+<img src="https://github.com/ericsilvarodrigues/Radical-Games/blob/main/Img/xampp_icon.png" alt="" height="40" width="40">
 
 ### Instalação:
 * Execute o XAMPP e acesse a administração do MySQL (phpmyadmin)
