@@ -36,7 +36,7 @@ Em "Releases" Faça o download da radicalgames (.jar) e execute o arquivo
   
 ![Login](https://github.com/ericsilvarodrigues/Radical-Games/blob/main/Img/Tela%20login.PNG)
 
-* Usuário
+* Usuários
 
 ![Usuários](https://github.com/ericsilvarodrigues/Radical-Games/blob/main/Img/Tela%20Usu%C3%A1rios.PNG)
 
